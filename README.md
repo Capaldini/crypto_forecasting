@@ -1,2 +1,2 @@
 # crypto_forecasting
-Fina code for Kaggle G-Research Crypto Forecasting Competition
+Final code for Kaggle G-Research Crypto Forecasting Competition
